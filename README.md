@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomaschoek
+- 👋 Hi, I’m Thomas
 - 👀 I’m interested in science, math, music, art
 - 🌱 I’m currently learning linear algebra for machine learning
 - 💞️ I’m looking to collaborate on music, math algorithms, games, cryptography
