@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas
-- 👀 I’m interested in science, math, music, art
+- 👀 I’m interested in science, math, music
 - 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on music, math algorithms, games, cryptography
+- 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me: send a pm
 
 <!---
